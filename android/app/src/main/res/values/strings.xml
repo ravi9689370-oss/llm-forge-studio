@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">APP_NAME_HERE</string>
+    <string name="title_activity_main">APP_NAME_HERE</string>
+    <string name="package_name">studio.neuroseek.ai</string>
+    <string name="custom_url_scheme">studio.neuroseek.ai</string>
+</resources>

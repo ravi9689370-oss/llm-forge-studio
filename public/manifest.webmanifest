@@ -1,0 +1,25 @@
+{
+  "name": "LLM Forge Studio",
+  "short_name": "LLMForge",
+  "description": "Interactive LLM forge: data pipeline, transformer architecture, pre-training, alignment and deployment simulator. Fully offline.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

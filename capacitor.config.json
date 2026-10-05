@@ -1,0 +1,9 @@
+{
+  "appId": "studio.neuroseek.ai",
+  "appName": "APP_NAME_HERE",
+  "webDir": "dist",
+  "backgroundColor": "#0a0e1a",
+  "android": {
+    "allowMixedContent": false
+  }
+}
